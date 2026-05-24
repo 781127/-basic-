@@ -1,0 +1,7 @@
+com\example\studentscore\controller\LoginController.class
+com\example\studentscore\repository\AdminRepository.class
+com\example\studentscore\entity\Student.class
+com\example\studentscore\StudentScoreSystemApplication.class
+com\example\studentscore\repository\StudentRepository.class
+com\example\studentscore\entity\Admin.class
+com\example\studentscore\controller\StudentController.class
